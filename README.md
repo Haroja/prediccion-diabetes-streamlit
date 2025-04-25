@@ -1,7 +1,5 @@
 # Predicción de Riesgo de Diabetes con Regresión Logística
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/Haroja/prediccion_diabetes_machine_learning_streamlit.git)
-
 Este proyecto implementa un modelo de regresión logística para predecir el riesgo de diabetes en pacientes. Incluye tanto el análisis exploratorio y la construcción del modelo (en un Jupyter Notebook) como una aplicación interactiva de Streamlit para usar el modelo.
 
 ## Descripción
