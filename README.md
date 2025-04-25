@@ -47,7 +47,7 @@ El dataset utilizado es el [Pima Indians Diabetes Database](https://www.kaggle.c
 1.  Clona el repositorio:
 
     ```bash
-    git clone [https://github.com/Haroja/prediccion-diabetes-streamlit.git](https://github.com/Haroja/prediccion-diabetes-streamlit.git)
+    git clone [https://github.com/Haroja/prediccion_diabetes_machine_learning_streamlit.git](https://github.com/Haroja/prediccion-diabetes-streamlit.git)
     ```
 
 2.  Navega al directorio del proyecto:
