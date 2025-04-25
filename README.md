@@ -1,6 +1,6 @@
 # Predicción de Riesgo de Diabetes con Regresión Logística
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://haroja-prediccion-diabetes-streamlit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://github.com/Haroja/prediccion_diabetes_machine_learning_streamlit.git)
 
 Este proyecto implementa un modelo de regresión logística para predecir el riesgo de diabetes en pacientes. Incluye tanto el análisis exploratorio y la construcción del modelo (en un Jupyter Notebook) como una aplicación interactiva de Streamlit para usar el modelo.
 
@@ -94,26 +94,6 @@ El dataset utilizado es el [Pima Indians Diabetes Database](https://www.kaggle.c
 
 3.  Streamlit abrirá automáticamente la aplicación en tu navegador web.
 
-### Usar la Aplicación
-
-1.  **Ingreso de Datos:**
-    * En la barra lateral izquierda, encontrarás controles deslizantes para ingresar los datos del paciente.
-    * Los parámetros incluyen:
-        * **Embarazos:** Número de embarazos.
-        * **Glucosa:** Nivel de glucosa en plasma.
-        * **Presión Arterial:** Presión arterial diastólica.
-        * **Grosor de la Piel:** Grosor del pliegue cutáneo del tríceps.
-        * **Insulina:** Nivel de insulina en suero.
-        * **BMI:** Índice de masa corporal.
-        * **Función Pedigrí Diabetes:** Función pedigrí de diabetes.
-        * **Edad:** Edad del paciente.
-2.  **Predicción:**
-    * Después de ingresar los datos, haz clic en el botón "Predecir Riesgo".
-3.  **Resultados:**
-    * La aplicación mostrará el riesgo de diabetes predicho como un porcentaje.
-    * También proporcionará una interpretación del riesgo (alto o bajo) basada en un umbral del 50%.
-4.  **Métricas (Opcional):**
-    * Puedes expandir la sección "Mostrar Métricas del Modelo" para ver métricas detalladas de rendimiento del modelo (reporte de clasificación, matriz de confusión, curva ROC) calculadas en el conjunto de prueba.
 
 ## Modelo de Machine Learning
 
