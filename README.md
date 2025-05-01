@@ -97,6 +97,12 @@ El dataset utilizado es el [Pima Indians Diabetes Database](https://www.kaggle.c
 
 Se utiliza un modelo de regresión logística de scikit-learn para la predicción. El modelo se entrena en el dataset de Pima Indians y se guarda en el archivo `diabetes_model.pkl`.
 
+## Ver la Aplicación en Streamlit Cloud
+
+Puedes ver la aplicación en funcionamiento aquí:
+
+[![Streamlit App] https://pdiabetes.streamlit.app
+
 ## Contribución
 
 ¡Las contribuciones son bienvenidas! Si encuentras errores o tienes sugerencias de mejora, siéntete libre de abrir un issue o enviar un pull request.
